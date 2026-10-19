@@ -1,0 +1,7 @@
+Git practice notes
+
+1. A repository records the history of a project.
+2. A commit is a saved snapshot of tracked changes.
+3. git status shows which files have changed.
+4. git add stages changes for the next commit.
+5. Never commit passwords, access tokens, or private information.
